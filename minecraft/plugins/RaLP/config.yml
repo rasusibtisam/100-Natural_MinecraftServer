@@ -1,0 +1,38 @@
+# RaLP Configuration
+settings:
+  # Available languages: en_us, ru_ru, de_de, es_es, pt_pt, fr_fr, tr_tr, it_it, ko_kr, ja_jp, zh_cn, pl_pl
+  default-language: en_us
+  min-password-length: 4
+  max-login-attempts: 3
+  block-time: 300
+  enable-auto-login: true
+  auto-login-ip-check: true
+  session-duration: 30
+  sound:
+    enabled: true
+    name: entity.ghast.ambient
+    volume: 1.0
+    pitch: 1.0
+auto-login: {}
+players:
+  07178ce3-fc36-4e39-a059-98ba74220cf2:
+    password: $2a$10$rTK4l70IqCXbP3GSqWBHJe2s830LCB7lu1xKUlH.g9F6dsdV6XWiu
+    name: rasusibtisam
+  3a8d46f4-73a8-3849-b859-9f46a7acbc82:
+    password: $2a$10$rBqSzAlFeLMjH.7pdDZL9utDx0TUwmMAn2xSFq3x1X.du2esko.7K
+    name: Autobuscgt
+  73ffe22a-002c-3a30-9c2a-00a456e7acb4:
+    password: $2a$10$ysJbxcwKh63PljwLlRNjdu/Jh.Bx6mLbbUwoLmrnq5XQGcfM/L6RO
+    name: KeisPhil
+  ec7ec970-7cb0-38d8-b069-849f75b10636:
+    password: $2a$10$N4iEWumak4BGYCphjvwfm.nMPJGAAY3qaaTJj032ptehOMKuxANrq
+    name: alyaruchka
+  f7061bc4-5a6d-4dac-882e-3f2b4a167107:
+    password: $2a$10$luj/iGZMbgmB/dhpLdMWNOpndEIhU2/oJJTxQyx0i/P6NiWxz9tYW
+    name: KeisPhil
+  dd19c8ef-6304-4598-8dff-ee74744a9913:
+    password: $2a$10$M.JHwcls39Tj7NTl8P6drOJsQY.0hyVXYMWX/o9l83Ek/A2qTbZN.
+    name: Autobuscgt
+  f5001847-2d3d-471f-8dba-6a062f0552ea:
+    password: $2a$10$fJNGqjnktnaPdq2tHPvIUe9SCuj3BkMFS7CzChTeUSkZiBSnVofVq
+    name: _Plossu_
